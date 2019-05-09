@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace host.Controllers
 {
+//testing
     public class HomeController : Controller
     {
         public ActionResult Index()
